@@ -10,7 +10,7 @@ cd /tmp
 
 # 변수 할당 시 공백을 사용하지 않고, 변수를 사용할 때는 $를 사용
 # 다운 가능한 go 버전을 입력함
-go="go1.17.2.linux-amd64.tar.gz"
+go="go1.21.0.linux-amd64.tar.gz"
 
 # go 다운로드
 wget https://dl.google.com/go/${go}
